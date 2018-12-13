@@ -1,0 +1,6 @@
+.imgUrl { 
+    text-overflow: ellipsis;
+    overflow: hidden; 
+    width: 5%; 
+    white-space: pre-wrap;
+  }
